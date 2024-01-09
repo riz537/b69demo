@@ -4,6 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content> 
           <Button  text="this is a test"></Button>
+          <Label text="test"/>
         </content>
     </Page>
 </mvc:View>
